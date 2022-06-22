@@ -28,6 +28,11 @@ Note que fib(5) e fib(4) são calculados apenas uma vez. Até aí tudo bem. Mas,
 Se armazenarmos todos os valores calculados num vetor de memorização, podemos apenas extrair os resultados armazenados nesse vetor ao invés de termos de os recalcular
 
 
+![image](https://user-images.githubusercontent.com/107331651/175108806-2e13a349-5cbf-4478-a28a-cdf7b301652d.png)
+
+![image](https://user-images.githubusercontent.com/107331651/175109215-c012174b-1ab6-4fef-b9bc-65db77e98cc1.png)
+
+
 
 (b) Implemente um algoritmo para o calculo do n- ́esimo numero de Fibonacci sem utilizar programacao dinamica.
 
