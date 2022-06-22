@@ -1,2 +1,2 @@
-# Programa-o-Din-mica
+# Programação Dinâmica
 Exercicios de Programação Dinâmica
