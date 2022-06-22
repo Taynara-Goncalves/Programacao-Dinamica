@@ -34,9 +34,9 @@ Se armazenarmos todos os valores calculados num vetor de memorização, podemos 
 
 
 
-(b) Implemente um algoritmo para o calculo do n- ́esimo numero de Fibonacci sem utilizar programacao dinamica.
+(b) Implemente um algoritmo para o calculo do n-esimo numero de Fibonacci sem utilizar programacao dinamica.
 
-(c) Implemente um algoritmo para o c ́alculo do n- ́esimo n ́umero de Fibonacci utilizacao programacao dinamica.
+(c) Implemente um algoritmo para o c ́alculo do n-esimo numero de Fibonacci utilizacao programacao dinamica.
 
 (d) Implemente um algoritmo para o problema do troco (Change-making problem) utilizando programacao dinamica.
 
@@ -44,5 +44,5 @@ Se armazenarmos todos os valores calculados num vetor de memorização, podemos 
 
 (f) Implemente um algoritmo para o problema de coleta de moedas (Coin-collecting problem) sem utilizar programacao dinamica.
 
-(g) Implemente o algoritmo baseado em funcao de mem ́oria (memory function) para soluçao do problema da mochila (knapsack problem).
+(g) Implemente o algoritmo baseado em funcao de memoria (memory function) para soluçao do problema da mochila (knapsack problem).
 
